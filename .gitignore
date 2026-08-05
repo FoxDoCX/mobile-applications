@@ -1,0 +1,21 @@
+﻿# Android / Gradle
+**/.gradle/
+**/build/
+**/.idea/
+**/local.properties
+**/captures/
+**/.cxx/
+**/*.apk
+**/*.aab
+**/*.jks
+**/*.keystore
+**/keystore/
+**/keystore.properties
+**/*.iml
+.DS_Store
+**/Thumbs.db
+
+# Optional per-app secrets
+**/secrets/
+
+**/.kotlin/
